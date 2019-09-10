@@ -1,0 +1,7 @@
+/_BASE_FILE/
+/_SOURCE/
+/subdir_rules.mk
+/subdir_vars.mk
+/makefile
+/objects.mk
+/sources.mk
